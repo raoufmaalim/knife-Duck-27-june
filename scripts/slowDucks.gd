@@ -4,6 +4,7 @@ var maxSpeed
 var minSpeed
 
 func _ready():
+	print("git ta3 chkoupi")
 	pass 
 
 func _process(delta):
